@@ -1,0 +1,6 @@
+Made this as my end semester project for Event Oriented Programming using Java course. A simple music library manager, takes as input a directory name and lists all the mp3 files. Files are then sorted on three fields, viz. Artist, Album and Title. This is done by extracting the ID3 tag information from the files. Requires setting up a native mysql database.
+
+Special thanks to Blinkenlight for the JID3 java library for extraction of ID3 tags. 
+
+Author-
+Saahil
